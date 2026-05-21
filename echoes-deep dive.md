@@ -1,4 +1,4 @@
- # ECHOES -- Strategic Synthesis 
+ # ECHOES -- Deep Dive
 
 *Filip Srdoč, May 2026*
 
